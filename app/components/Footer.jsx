@@ -14,7 +14,7 @@ const Footer = () => {
           <p>Github</p>
         </a>
         <a
-          href="https://github.com/Setthasat"
+          href="https://safehub.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
           className="p-4 mx-2  gap-2 rounded-full text-yellow-500 hover:text-black hover:bg-yellow-500 transition-colors flex items-center justify-center"
